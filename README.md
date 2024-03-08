@@ -57,7 +57,27 @@ npm install
 ```bash
 npm start
 ```
+# Testing
+After successfully running both the backend and frontend,
+you can access the registration page at [http://localhost:3000/register](http://localhost:3000/register).
 
+If it goes well, it will look like the following image:
+
+1. **Register:** Enter your name, email, password, and confirm password, then click the Register button.
+
+  ![Registration Page](/images/register.png)
+
+  This screenshot shows the registration page where users can sign up for your application.
+  
+2. **Login:** After registering successfully, you will be directed to the login form. Enter your username and password, then click the Login button.
+
+   ![Login Page](/images/login.png)
+
+3. **Dashboard:** Upon successful login, you will be directed to the dashboard page where you can access various features of the application.
+
+   ![Dashboard Page](/images/dashboard.png)
+
+4. **Logout:** To logout, simply click the “Logout” button, and you will be redirected to the login form.
 
 ## Contributing
 
